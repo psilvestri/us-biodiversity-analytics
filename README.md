@@ -141,5 +141,3 @@ This project demonstrates:
 
 **Peter Silvestri**  
 Analytics Engineer | Data Modeling | Marketing & Product Analytics  
-**Peter Silvestri**  
-Analytics Engineer | Data Modeling | Marketing & Product Analytics  
